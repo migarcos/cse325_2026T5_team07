@@ -3,3 +3,6 @@
 ## Contributors
 - King Aguomba
 - Miguel Arcos
+
+## TRELLO board
+https://trello.com/b/2mQOhjia/cse325-2026t5-team07
