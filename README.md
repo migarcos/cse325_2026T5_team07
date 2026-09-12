@@ -1,4 +1,5 @@
 # CSE325 BLAZOR Project - Team 7
+A C# based Web Wpp using the .NET enviroment
 
 ## Contributors
 - King Aguomba
