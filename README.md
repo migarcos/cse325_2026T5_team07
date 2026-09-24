@@ -2,7 +2,7 @@
 A C# based Web App using the .NET enviroment
 
 ## Contributors
-
+- Anyway Kambeva
 - Kieft Raphter Joly
 - King Aguomba
 - Miguel Arcos
